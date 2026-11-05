@@ -16,6 +16,23 @@ A comprehensive Business Intelligence dashboard built using Power BI to analyze 
 
 ---
 
+## 💡 Strategic Business Recommendations
+
+Based on the dashboard insights, the following data-driven strategies are recommended to maximize retail revenue:
+
+1. **Inventory & Assortment Optimization:**
+   * Prioritize stock replenishment for *Fruits & Vegetables* and *Snack Foods* to prevent stockouts, as they represent core consumer demand buckets.
+   * Capitalize on the strong market preference for **Low Fat** variants by expanding health-conscious product lines.
+
+2. **Targeted Regional Expansion:**
+   * Since **Tier 3 cities** generate the highest sales volume (₹472.13K), quick-commerce dark store expansions and hyper-localized marketing should heavily target Tier 2 and Tier 3 regions where demand is booming.
+
+3. **Format Strategy Refinement:**
+   * *Medium* and *Small* outlets outperform *High* sized outlets in aggregate revenue generation. Future capital expenditure should favor agile, medium-format dark stores or micro-warehouses over high-cost large footprints.
+   * Address the performance gap in traditional *Grocery Stores* (₹151.94K sales) by auditing assortment quality while leveraging their higher item visibility (0.10) to drive cross-selling.
+
+---
+
 ## 📌 Project Overview & Objectives
 
 This project provides deep-dive analytics into Blinkit’s operational and transactional dataset encompassing **8,523 total items** across multiple outlet types and geographical tiers. 
@@ -50,26 +67,6 @@ This project provides deep-dive analytics into Blinkit’s operational and trans
 
 ### 3. Geographical Distribution (Tier Breakdown)
 * **Tier 3 Cities** lead in total sales contribution (**₹472.13K** / ~39%), followed closely by **Tier 2** (**₹393.15K**) and **Tier 1** (**₹336.40K**), pointing to strong demand density in emerging markets.
-
----
-
-## 💡 Strategic Business Recommendations
-
-Based on the dashboard insights, the following data-driven strategies are recommended to maximize retail revenue:
-
-1. **Inventory & Assortment Optimization:**
-   * Prioritize stock replenishment for *Fruits & Vegetables* and *Snack Foods* to prevent stockouts, as they represent core consumer demand buckets.
-   * Capitalize on the strong market preference for **Low Fat** variants by expanding health-conscious product lines.
-
-2. **Targeted Regional Expansion:**
-   * Since **Tier 3 cities** generate the highest sales volume (₹472.13K), quick-commerce dark store expansions and hyper-localized marketing should heavily target Tier 2 and Tier 3 regions where demand is booming.
-
-3. **Format Strategy Refinement:**
-   * *Medium* and *Small* outlets outperform *High* sized outlets in aggregate revenue generation. Future capital expenditure should favor agile, medium-format dark stores or micro-warehouses over high-cost large footprints.
-   * Address the performance gap in traditional *Grocery Stores* (₹151.94K sales) by auditing assortment quality while leveraging their higher item visibility (0.10) to drive cross-selling.
-
-4. **Customer Experience & Quality Control:**
-   * The average rating sits at **3.9/5.0**, leaving room for improvement. Implement stricter quality checks on perishables and reduce delivery fulfillment times to lift customer satisfaction scores.
 
 ---
 
